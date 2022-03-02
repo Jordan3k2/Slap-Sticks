@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x410a71C0556dC41416bc8f2E35bF8AC2bc10c223",
+  "SCAN_LINK": "https://polygonscan.com/address/0x410a71c0556dc41416bc8f2e35bf8ac2bc10c223",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Slap Sticks",
+  "SYMBOL": "SLAPSTICKS",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "tofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/collection/0x410a71c0556dc41416bc8f2e35bf8ac2bc10c223/items",
+  "SHOW_BACKGROUND": true
+}
